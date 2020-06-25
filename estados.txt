@@ -1,0 +1,8 @@
+logueado / no logueado (usuario)
+registrado / no registrado (usuario)
+habilitada / no habilitada (aviso inmobiliaria)
+prueba gratuita / ya probo (inmobiliaria)
+denunciado / no denunciado (denunciable)
+bloqueado / no bloqueado (denunciable)
+suspendido / no suspendido (denunciable)
+multado / no multado (denunciable)
