@@ -1,0 +1,14 @@
+borramos socialMedia
+cambiamos el nombre de la clase "denunciable" por "denundiado"
+	quitamos los nombres denunciables y pusimos denunciado
+corregimos nombres de metodos en los driagramas (falta le de casos de uso)
+
+
+
+Falta ver problema con gestor de busqueda ¿se debe quitar?
+Ver nombres de casos de uso
+ver que hacer con red social
+
+
+
+
