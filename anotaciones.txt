@@ -1,7 +1,9 @@
 borramos socialMedia
 cambiamos el nombre de la clase "denunciable" por "denundiado"
-	quitamos los nombres denunciables y pusimos denunciado
+quitamos los nombres denunciables y pusimos denunciado
 corregimos nombres de metodos en los driagramas (falta le de casos de uso)
+
+20201026 -> implementamos patron factory method, falta decir porque, no hay porque
 
 
 
