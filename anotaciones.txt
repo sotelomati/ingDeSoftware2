@@ -5,11 +5,13 @@ corregimos nombres de metodos en los driagramas (falta le de casos de uso)
 
 20201026 -> implementamos patron factory method, falta decir porque, no hay porque
 
+20201028 -> implementamos patron observer, con objeto tabla de enventos para guardar todos lo eventos del sistema, que es capaz de ser consultado por el administradodor c:
 
 
-Falta ver problema con gestor de busqueda ¿se debe quitar?
+Falta ver problema con gestor de busqueda Â¿se debe quitar?
 Ver nombres de casos de uso
 ver que hacer con red social
+
 
 
 
