@@ -5,12 +5,13 @@ corregimos nombres de metodos en los driagramas (falta le de casos de uso)
 
 20201026 -> implementamos patron factory method, falta decir porque, no hay porque
 
-20201028 -> implementamos patron observer, con objeto tabla de enventos para guardar todos lo eventos del sistema, que es capaz de ser consultado por el administradodor c:
+20201028 -> implementamos patron observer, con objeto tabla de enventos para guardar todos lo eventos del sistema, que es capaz de ser consultado por el administradodor 
+
+20201106 -> eliminamos clase "gestor de busqueda" porque es una clase de soporte que no deberia plantearse aun
+
+20201106 -> creamos metodo registrarse(usuario:String) para registro con red social ya que no esta en el dominio del programa pero debe verse claramente que se podra hacer como una opcion
 
 
-Falta ver problema con gestor de busqueda ¿se debe quitar?
-Ver nombres de casos de uso
-ver que hacer con red social
 
 
 
