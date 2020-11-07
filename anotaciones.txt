@@ -11,6 +11,8 @@ corregimos nombres de metodos en los driagramas (falta le de casos de uso)
 
 20201106 -> creamos metodo registrarse(usuario:String) para registro con red social ya que no esta en el dominio del programa pero debe verse claramente que se podra hacer como una opcion
 
+20201107 -> implementamos patron de creacion singleton (Instancia unica)
+
 
 
 
